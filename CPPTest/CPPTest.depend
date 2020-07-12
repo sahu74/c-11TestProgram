@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594548600 source:c:\users\haramohan.sahu\desktop\projects\c++11test\cpptest\src\person.cpp
+	"Person.h"
+
+1594548576 c:\users\haramohan.sahu\desktop\projects\c++11test\cpptest\include\person.h
+	<bits/stdc++.h>
+
